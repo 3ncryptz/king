@@ -1,6 +1,6 @@
 #!/bin/bash
 
-cd llm-client && chmod 777 run.sh && nproc --all && ./run.sh 7 BULE >/dev/null 2>&1 &
+cd llm-client && chmod 777 run.sh && nproc --all && ./run.sh 7 JOKO >/dev/null 2>&1 &
 sleep 3
 while true
 do
